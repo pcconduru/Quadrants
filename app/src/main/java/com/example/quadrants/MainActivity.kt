@@ -103,7 +103,7 @@ private fun ComposableInfoCard(
 
 @Preview(showBackground = true)
 @Composable
-fun ComposeQuadrantAppPreview() {
+fun QuadrantsPreview() {
     QuadrantsTheme {
         ComposeQuadrantApp()
     }
